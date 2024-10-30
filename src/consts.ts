@@ -15,7 +15,7 @@ export type Link = {
 export const SITE: Site = {
   TITLE: 'Sherlock Lau',
   DESCRIPTION:
-    'sherlocklau\'s blog',
+    'sherlocklaus blog',
   EMAIL: 'jason@enscribe.dev',
   NUM_POSTS_ON_HOMEPAGE: 5,
   POSTS_PER_PAGE: 10,
